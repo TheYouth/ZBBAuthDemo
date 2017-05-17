@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.0.2)
+  - WechatOpenSDK (1.7.7)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.2)
+  - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  WechatOpenSDK: cbd332148eb792d444ed4eec94f421d98f2046ee
+
+PODFILE CHECKSUM: 264e5b710c089e91bb6dcfafa13d4d5ba5c29ee9
+
+COCOAPODS: 1.2.1
